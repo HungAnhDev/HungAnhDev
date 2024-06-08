@@ -13,7 +13,7 @@
 
 - Good with **C++**, **Python** & **JavaScript**
 
-- My favourite games: **Valorant**, **Minecraft** & **AOV**
+- My favourite games: **Valorant**, **Minecraft**
 
 - Understand **English** and **Vietnamese**
 <img src="./img/Waifu-elainaa.png" width="300" align="right" />
